@@ -1,0 +1,5 @@
+
+enhancement:
+  lr: 2e-4
+  warm_up_steps: 2000
+  cosine_lr: true
